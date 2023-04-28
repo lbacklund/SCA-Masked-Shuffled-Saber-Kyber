@@ -1,0 +1,3 @@
+[submodule "ECC_CCT_tool"]
+	path = ECC_CCT_tool
+	url = git@github.com:lbacklund/ECC_CCT_tool.git
